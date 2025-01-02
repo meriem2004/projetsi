@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-InternshipmanagApplication<internshipmanag>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "app.internshipmanag.InternshipmanagApplication",
+            "projectName": "internshipmanag",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
